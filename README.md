@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**YoussefGamal99/YoussefGamal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Youssef**, a Virtual Assistant & AI Agent Engineer specializing in business automation and intelligent workflow systems
+Vibe coder leveraging AI-assisted tools to build full-stack applications
 
-Here are some ideas to get you started:
+➝ Building automated workflows for lead generation and data processing
+➝ Creating websites and web applications using AI-assisted vibe coding
+➝ Designing multi-agent AI systems for specialized business tasks
+➝ Developing scalable automation solutions for startups and digital businesses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➝ AI & Automation: n8n, AI agents, RAG workflows
+➝ Vibe Coding: Cursor, Lovable
+➝ Tech Stack: React, Node.js, TypeScript, Supabase
+➝ Integrations: GitHub, Perplexity API, Google AI Studio
+➝ Services: Virtual assistance, project management, data management, digital optimization
+
+📌 [LinkedIn]( https://www.linkedin.com/in/yousseffgamal)
